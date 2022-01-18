@@ -1,0 +1,18 @@
+[
+    {
+        "projectUrl": "https://discord.gg/mgXhVDUEUq",
+        "provider": "towicode",
+        "name": "AoE Warnings2",
+        "description": "Shows the final destination for AoE Attack projectiles",
+        "id": "aoewarnings-plugin",
+        "releases": [
+            {
+                "date": "2021-02-27",
+                "sha512sum": "7d987b992640e78622084121dc5d6bdad8e79e0dacda48b5fb89b668e3592a2cafecaadb163e13f45d9088591ec0554edc82982c2de640dd249300710dffe195",
+                "version": "5.0.7",
+                "url": "https://github.com/towicode/rz2/blob/master/release/aoewarnings-5.0.7.jar?raw=true",
+                "requires": "^1.0.0"
+            }
+        ]
+    }
+]
